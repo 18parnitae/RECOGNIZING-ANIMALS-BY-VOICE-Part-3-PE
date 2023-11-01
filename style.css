@@ -1,0 +1,26 @@
+body {
+    font-family: 'Roboto Slab', serif;
+    background-color: aquamarine;
+}
+header_div {
+    background-color: violet;
+    text-emphasis-color: blue;
+    font-weight: 100;
+    letter-spacing: normal;
+    font-size: medium;
+}
+main_div {
+    font-style: italic;
+    margin-top: auto;
+    width: 200;
+    letter-spacing: normal;
+}
+
+copy_right_footer {
+    background-color: rgb(201, 66, 66);
+    text-emphasis-color: rgb(172, 18, 172);
+    width: fit-content;
+    font-size: medium;
+    line-height: normal;
+    text-shadow: 10px;
+}
